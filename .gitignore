@@ -1,0 +1,7 @@
+*.mov
+*.mp4
+*.avi
+*.h5
+*.pkl
+!Posture_MachineLearning/model/ActionV7_rf.pkl
+!Posture_DeepLearning/model/ActionNV2.h5
