@@ -1,5 +1,5 @@
 # HumanPoseEstimation
-This project is about a HPE(HumanPoseEstimation) implemented by Machine Learning and Deep Learning.
+This project is about a HPC(HumanPoseClassifier) implemented by Machine Learning and Deep Learning.
 
 ## PREVIEW
 ![DEMO_AdobeExpress](https://user-images.githubusercontent.com/43237393/185286388-212dc244-152f-4639-927f-b0dfa7b64010.gif)
